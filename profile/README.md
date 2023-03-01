@@ -10,7 +10,7 @@ When I feel one project is good enough to be publicized, I might transfer it to 
 
 You may also find my projects that are already open-sourced on [this page](https://elonehoo.me/projects.html).
 
-You can send an [email](mailto:hi@elonehoo.me) or send a message to my [twitter](https://twitter.com/elonehoo), and I will pull you into the organization.
+You can send an [email](mailto:hi@elonehoo.me) or send a message to my [Twitter](https://twitter.com/elonehoo), pulling you into the organization.
 
 <br>
 <samp>Thank you.</samp><br>
