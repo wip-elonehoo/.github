@@ -12,7 +12,7 @@ You may also find my projects that are already open-sourced on [this page](https
 
 You can send an [email](mailto:hi@elonehoo.me) or send a message to my [Twitter](https://twitter.com/elonehoo), pulling you into the organization.
 
-中文用户移步到[这里](./README-ZH.md)
+中文用户移步到[这里](./profile/README-ZH.md)
 
 <br>
 <samp>Thank you.</samp><br>
