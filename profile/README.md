@@ -17,3 +17,9 @@ You can send an [email](mailto:hi@elonehoo.me) or send a message to my [Twitter]
 <br>
 <samp>Thank you.</samp><br>
 <samp>Elone Hoo</samp>
+
+<hr>
+
+### Projects from this program
+
+- [@jump-ide/vite-plugin-open-ide](https://github.com/jump-ide/vite-plugin-open-ide) - Jump to the local IDE source code while clicking the element of the browser automatically.
