@@ -15,3 +15,9 @@
 <br>
 <samp>十分感谢！</samp><br>
 <samp>Elone Hoo</samp>
+
+<hr>
+
+## 该计划中的项目
+
+- [@jump-ide/vite-plugin-open-ide](https://github.com/jump-ide/vite-plugin-open-ide) - 点击浏览器元素自动跳转到本地IDE源代码。
