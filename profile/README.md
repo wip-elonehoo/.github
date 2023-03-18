@@ -23,3 +23,4 @@ You can send an [email](mailto:hi@elonehoo.me) or send a message to my [Twitter]
 ### Projects from this program
 
 - [@jump-ide/vite-plugin-open-ide](https://github.com/jump-ide/vite-plugin-open-ide) - Jump to the local IDE source code while clicking the element of the browser automatically.
+- [@elonehoo/vitest-plugin-github-actions](https://github.com/elonehoo/vitest-plugin-github-actions) - GitHub actions error and coverage reporter for vitest.
