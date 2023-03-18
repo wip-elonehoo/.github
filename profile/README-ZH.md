@@ -21,3 +21,4 @@
 ## 该计划中的项目
 
 - [@jump-ide/vite-plugin-open-ide](https://github.com/jump-ide/vite-plugin-open-ide) - 点击浏览器元素自动跳转到本地IDE源代码。
+- [@elonehoo/vitest-plugin-github-actions](https://github.com/elonehoo/vitest-plugin-github-actions) - Vitest 的 GitHub 操作错误和覆盖报告器。
