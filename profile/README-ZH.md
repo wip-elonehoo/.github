@@ -22,3 +22,4 @@
 
 - [@jump-ide/vite-plugin-open-ide](https://github.com/jump-ide/vite-plugin-open-ide) - 点击浏览器元素自动跳转到本地IDE源代码。
 - [@elonehoo/vitest-plugin-github-actions](https://github.com/elonehoo/vitest-plugin-github-actions) - Vitest 的 GitHub 操作错误和覆盖报告器。
+- [@conver-unocss/unocss-plugin-transform](https://github.com/conver-unocss/unocss-plugin-transform) - 让原生 CSS 在 UnoCss 中经历魔法。
