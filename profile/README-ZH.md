@@ -10,7 +10,7 @@
 
 您可以在[此页](https://elonehoo.me/projects.html)上找到我已经开源的项目和即将开源的项目。
 
-你可以发送[邮件](mailto:hi@elonehoo.me)给我或者给我的 [Twitter](https://twitter.com/elonehoo) 发送信息，将你拉入组织。
+你可以发送[邮件](mailto:elonehoo@gmail.com)给我或者给我的 [Twitter](https://twitter.com/elonehoo) 发送信息，将你拉入组织。
 
 <br>
 <samp>十分感谢！</samp><br>
